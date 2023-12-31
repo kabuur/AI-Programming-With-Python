@@ -6,7 +6,7 @@ def multiply():
         num1 = int(input("enter num 1:"))
         num2 = int(input("enter num 2:"))
         print("the multiplication of {} * {} is " .format(num1, num2) ,num1*num2)
-    except ValueError:
+    except :
         print("the erroe is acuure")
 
 multiply()
@@ -20,7 +20,7 @@ def string():
         name = str(input("Enter name : "))
 
         print("Hello mrs:",name)
-    except ValueError:
+    except :
         print("the erroe is acuure")
     # under the finally will axcute if the error accur or not 
     finally:
