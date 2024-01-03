@@ -1,2 +1,4 @@
-There are optional parameters you can specify in 
-the open function. One is the mode in which we open the file. Here, we use r or read only. This is actually the default value for the mode argument.
+There are optional parameters you can specify in the open function. 
+One is the mode in which we open the file.
+Here, we use r or read only. 
+This is actually the default value for the mode argument.
