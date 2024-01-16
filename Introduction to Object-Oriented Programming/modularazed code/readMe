@@ -1,0 +1,13 @@
+---- frist 
+**pip install . in "the directory" **
+
+--- second 
+** from distributions import Gaussian in your python in the where ever you want **
+
+
+
+>>> from distributions import Gaussian
+>>> G = Gaussian(4,12) 
+>>> print(G)
+mean 4, standard deviation 12
+
