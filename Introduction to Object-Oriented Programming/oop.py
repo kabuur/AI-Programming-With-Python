@@ -27,9 +27,6 @@ class Shirt:
 
 
 
-
-
-
 new_shirt =  Shirt("black","m","short sveez",12)
 
 print("old shirt price is ",new_shirt.price)

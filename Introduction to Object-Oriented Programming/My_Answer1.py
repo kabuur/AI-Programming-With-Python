@@ -15,18 +15,6 @@ class Pants:
     def discount(self, percentage):
    
         return self.price * (1 - percentage)
-    
-
-
-
-
-
-
-
-
-
-
-
 
 
 class  SalesPerson:
